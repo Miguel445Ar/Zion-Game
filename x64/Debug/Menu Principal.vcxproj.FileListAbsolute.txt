@@ -1,0 +1,20 @@
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\Menu Principal.vcxprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\MenuPrincipal.MyDialogoAC.resources
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\MenuPrincipal.MyJuego.resources
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\MenuPrincipal.MyJuego2.resources
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\MenuPrincipal.MyPantallaGanaste.resources
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\MenuPrincipal.MyPantallaPerdiste.resources
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\MenuPrincipal.MyPantallaPrincipal.resources
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\Menu Principal.vcxproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\Menu Principal.exe
+C:\Users\Miguel\Desktop\TF progra 2 final\Menu Principal\x64\Debug\Menu Principal.pdb
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\Menu Principal.vcxprojAssemblyReference.cache
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\MenuPrincipal.MyDialogoAC.resources
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\MenuPrincipal.MyJuego.resources
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\MenuPrincipal.MyJuego2.resources
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\MenuPrincipal.MyPantallaGanaste.resources
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\MenuPrincipal.MyPantallaPerdiste.resources
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\MenuPrincipal.MyPantallaPrincipal.resources
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\Menu Principal.vcxproj.GenerateResource.cache
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\Menu Principal.exe
+C:\Users\HP\Desktop\Menu Principal\x64\Debug\Menu Principal.pdb
